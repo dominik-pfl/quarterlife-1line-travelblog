@@ -16,7 +16,7 @@
 7. Off to Kandy by train 🚂
 8. 26 Grad und schwül - lässt sich aushalten
 9. everything is soo greeeeen 
- ![train view] (images/PXL_20251106_104949444.jpg)
+ ![train view](images/PXL_20251106_104949444.jpg)
 
 
 </details>
