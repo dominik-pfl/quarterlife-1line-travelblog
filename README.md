@@ -5,13 +5,14 @@
 ---
 
 <details>
-<summary>Click here for summary</summary>
+<summary>Arrival + First impressions</summary>
 <br>
 - "You like Bob Marley? The best weed is sold on the main street. - Ich weiß ja nicht.
 - TukTuk driving lesson at 3:30 am
 - Breakfast? How about a Burger
 - Es wurde dann ein Cheese Omelette
 - Greetings to Peter from the Netherlands, who also studied in Turku - what a coincidence 😂
+-Off to Kandy by train 🚂 
 </details>
 
 
