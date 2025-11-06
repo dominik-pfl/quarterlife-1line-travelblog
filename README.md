@@ -11,7 +11,7 @@
 2. TukTuk driving lesson at 3:30 am
 3. Very cold night, due to the AC
 4. Breakfast? How about a Burger
-5. Es wurde dann ein Cheese Omelette
+5. I had a cheese omelette for bf in the end
 6. Greetings to Peter from the Netherlands, who also studied in Turku - what a coincidence 😂
 7. Off to Kandy by train 🚂
 8. 26 Grad und schwül - lässt sich aushalten
