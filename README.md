@@ -7,7 +7,7 @@
 <details markdown="1">
 <summary>Arrival + First impressions</summary>
 
-1. "You like Bob Marley? The best weed is sold on the main street. - Ich weiß ja nicht.
+1. "You like Bob Marley? The best weed is sold on the main street." - Ich weiß ja nicht.
 2. TukTuk driving lesson at 3:30 am
 3. Very cold night, due to the AC
 4. Breakfast? How about a Burger
