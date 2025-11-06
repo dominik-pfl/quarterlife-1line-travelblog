@@ -7,14 +7,17 @@
 <details markdown="1">
 <summary>Arrival + First impressions</summary>
 
-- "You like Bob Marley? The best weed is sold on the main street. - Ich weiß ja nicht.
-- TukTuk driving lesson at 3:30 am
-- Very cold night, due to the AC
-- Breakfast? How about a Burger
-- Es wurde dann ein Cheese Omelette
-- Greetings to Peter from the Netherlands, who also studied in Turku - what a coincidence 😂
-- Off to Kandy by train 🚂
-- 26 Grad und schwül - lässt sich aushalten
+1. "You like Bob Marley? The best weed is sold on the main street. - Ich weiß ja nicht.
+2. TukTuk driving lesson at 3:30 am
+3. Very cold night, due to the AC
+4. Breakfast? How about a Burger
+5. Es wurde dann ein Cheese Omelette
+6. Greetings to Peter from the Netherlands, who also studied in Turku - what a coincidence 😂
+7. Off to Kandy by train 🚂
+8. 26 Grad und schwül - lässt sich aushalten
+9. everything is soo greeeeen 
+ ![train view] (images/pic1.jpg)
+
 
 </details>
 
