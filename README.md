@@ -4,7 +4,7 @@
 
 ---
 
-<details>
+<details, markdown = 1>
 <summary>Arrival + First impressions</summary>
 <br>
 
