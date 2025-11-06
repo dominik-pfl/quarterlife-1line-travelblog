@@ -3,6 +3,10 @@
 > I wrote a lot of text over the last months, so this is my 1-line Travel blog for my stay in Sri Lanka - Enjoy!
 
 ---
+<details markdown="1">
+<summary> Move to Kandy</summary>
+1. Random Fact: I have read one book in the last 7 years (I think). I read a book in the last 2 days. Ladylike (very funny book) :)
+
 
 <details markdown="1">
 <summary>Arrival + First impressions</summary>
