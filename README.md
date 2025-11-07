@@ -9,8 +9,10 @@
 2. Pumpkin curry cooking class
 3. Cabo with 3 Austrians and 10 extra rules
 4. Buddhas Tooth temple - plot twist, you can't see the tooth - but hey good karma
+![the schrein](images/images/PXL_20251107_052050034.MP.jpg)
 5. a lot of school kids and everyone wanted to say hi 🙃🫠
-6. anything you are looking for is at the next junction
+6. ![oil lamp](images/images/PXL_20251107_053117335.MP.jpg)
+7. anything you are looking for is at the next junction
 
 </details>
 
