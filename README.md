@@ -8,6 +8,9 @@
 1. Random Fact: I have read one book in the last 7 years (maybe 2), but I read another book in the last 2 days. Ladylike (very funny book) :) 
 2. Pumpkin curry cooking class
 3. Cabo with 3 Austrians and 10 extra rules
+4. Buddhas Tooth temple - plot twist, you can't see the tooth - but hey good karma
+5. a lot of school kids and everyone wanted to say hi 🙃🫠
+6. anything you are looking for is at the next junction
 
 </details>
 
