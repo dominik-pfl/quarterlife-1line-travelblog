@@ -4,6 +4,14 @@
 
 ---
 <details markdown="1">
+<summary> From Kandy to Ella</summary>
+
+1. hickup for breakfast, because of spicy 🌶️🔥 breakfast 
+2. one of the most scenic train rides in the world 🚂
+
+</details>
+
+<details markdown="1">
 <summary> Move to Kandy</summary>
 
 1. Random Fact: I have read one book in the last 7 years (maybe 2), but I read another book in the last 2 days. Ladylike (very funny book) :) 
