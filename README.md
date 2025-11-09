@@ -14,8 +14,9 @@
 5. I am glad I didn't rent a tuktuk to get across the island - tom and the guy from Ulm told some dangerous storys 
 6. woke up to a cold this morning, might have been to much, the last days - so I take a day off
 7. so far I only ate local food
-![it's so good](images/)
-![a Tuk Tuk load to good curry](images/)
+![it's so good](images/PXL_20251109_074749913.MP.jpg)
+![a Tuk Tuk load to good curry](images/PXL_20251109_081152862.MP.jpg)
+![and more](images/PXL_20251109_081201484.MP.jpg)
 </details>
 
 <details markdown="1">
