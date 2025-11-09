@@ -3,12 +3,19 @@
 > I wrote a lot of text over the last months, so this is my 1-line Travel blog for my stay in Sri Lanka - Enjoy!
 
 ---
+
 <details markdown="1">
 <summary> From Kandy to Ella</summary>
 
 1. hickup for breakfast, because of spicy 🌶️🔥 breakfast 
 2. one of the most scenic train rides in the world 🚂
-
+3. run to see the 9 arches bridge and little adams peak - no, I don't need a tuktuk
+4. met a girl from finland, she was happy that I have such good memories of Finland - kiitos, kippis, korvapuusti
+5. I am glad I didn't rent a tuktuk to get across the island - tom and the guy from Ulm told some dangerous storys 
+6. woke up to a cold this morning, might have been to much, the last days - so I take a day off
+7. so far I only ate local food
+![it's so good](images/)
+![a Tuk Tuk load to good curry](images/)
 </details>
 
 <details markdown="1">
