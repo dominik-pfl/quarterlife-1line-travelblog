@@ -7,7 +7,11 @@
 <details markdown="1">
 <summary> Let's go south</summary>
 1. Safari transfer to Hiriketiya 🐘
-
+2. 6 am surf session, 7.30 breakfast smoothie bowl - what a start to the day
+3. Sunset with a rainbow
+4. CABO evening
+5. Avocado Toast ![avoc toast]()
+![the beach]()
 
 
 <details markdown="1">
