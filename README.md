@@ -12,7 +12,7 @@
 4. CABO evening
 5. Avocado Toast ![avoc toast]()
 ![the beach]()
-
+</details>
 
 <details markdown="1">
 <summary> From Kandy to Ella</summary>
