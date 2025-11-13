@@ -10,7 +10,8 @@
 2. 6 am surf session, 7.30 breakfast smoothie bowl - what a start to the day
 3. Sunset with a rainbow
 4. CABO evening
-5. Avocado Toast ![avoc toast](images/PXL_20251113_055320403.MP.jpg)
+5. Avocado Toast 
+![avoc toast](images/PXL_20251113_055320403.MP.jpg)
 ![the beach](images/PXL_20251112_043208020.MP.jpg)
 </details>
 
