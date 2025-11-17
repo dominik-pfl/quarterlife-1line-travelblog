@@ -3,6 +3,13 @@
 > I wrote a lot of text over the last months, so this is my 1-line Travel blog for my stay in Sri Lanka - Enjoy!
 
 ---
+<details markdown="1">
+<summary> Weligama surf town</summary>
+1. Cappuccino with home made cashew milk
+2. Town = a street
+3. 1h board rental = 3,30€
+4. Afternoon rain, rain, rain, rain, rain 
+</details>
 
 <details markdown="1">
 <summary> Let's go south</summary>
