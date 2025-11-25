@@ -3,6 +3,32 @@
 > I wrote a lot of text over the last months, so this is my 1-line Travel blog for my stay in Sri Lanka - Enjoy!
 
 ---
+
+<details markdown="1">
+<summary> How to spend the best last day in Sri Lanka </summary>
+1. 7am surf with damiano from italy
+2. 10am yoga with everyone in the hostel
+3. 11am just dance class with the swedish girls 
+4. 11.30am big smoothie bowl and mango lassie with a swedish, an Indian and a canadian
+5. 3-6pm heavy rain
+6. 5pm Cabo with everyone at the hostel
+7. 7.30pm open mic and pizza with the swedish group
+8. 2€ bus ride to the airport
+9. Getting the grade for your masters thesis
+</details>
+
+<details markdown="1">
+<summary> Ahangama (next surf town)</summary>
+1. The wave is called marshmellow
+2. 7am surf, 8:30 breakfast 
+3. Always movie rain in the evening
+4. Watching Shrek
+5. getting everyone hooked to Cabo
+6. scratching my foot on the reef - ouch
+7. Skate Bowl Party in the local skate shop
+</details>
+
+
 <details markdown="1">
 <summary> Weligama surf town</summary>
 1. Cappuccino with home made cashew milk
